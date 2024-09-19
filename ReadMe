@@ -1,0 +1,3 @@
+Here are different ML models to predict football matches. 
+
+Notebooks starting with 'hand' indicate that I didn't use pre-built libraries but implemented them manually (to better understand in detail how these ML models work)
